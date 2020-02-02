@@ -1,0 +1,14 @@
+Difficulty Turns Accuracy(%) Name 
+Hard 64 28 Kevin 
+Hard 68 26 Tracy 
+Hard 85 21 I 
+Hard 91 20 k2s 
+Hard 92 20 I 
+Easy 33 55 Gabriele 
+Easy 47 38 Impressive 
+Easy 47 38 I did it 
+Easy 49 37 Demo 
+Easy 51 35 - 
+Easy 52 35 Kevin 
+Easy 55 33 Interesting 
+Easy 61 30 Caleb 
