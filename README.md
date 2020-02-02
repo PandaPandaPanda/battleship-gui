@@ -24,4 +24,4 @@ The player wins the game when the player sinks all enemy ships first,
 and the player will be asked to input a player name to be recorded in the database.
 The AI wins the game when the AI sinks all player's ships first. 
 
-![](img src = "Walkthrough/Cover.png")
+![]("images/Cover.png")
