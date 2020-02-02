@@ -1,11 +1,11 @@
-Project Name: Battleship
-Author: Kevin Xu
-Files: AI, Background, Commentator, EnemyField, HomeField, Main, Ocean, PlayingField, Score, Ship, StatusPanel
-Resources: background.jpg, battleship.gif, battleshipv.gif, carrier.gif, carrierv.gif, cruiser.gif, cruiserv.gif, firex.gif, frigate.gif
-, ocean.jpg, splash.gif, submarine.gif, submarinev.gif, water.gif
-Database: Score Board.txt
-
-Description: 
+Project Name: Battleship <br />
+Author: Kevin Xu <br />
+Files: AI, Background, Commentator, EnemyField, HomeField, Main, Ocean, PlayingField, Score, Ship, StatusPanel <br />
+Resources: background.jpg, battleship.gif, battleshipv.gif, carrier.gif, carrierv.gif, cruiser.gif, cruiserv.gif, firex.gif, frigate.gif <br />
+, ocean.jpg, splash.gif, submarine.gif, submarinev.gif, water.gif <br />
+Database: Score Board.txt <br />
+<br />
+Description: <br />
 This a Human v.s. the Computer version of the classic battleship game. 
 The objective is to sink all five-ship in the enemy field before the computer sinks all of your ships.
 The player gets to choose between easy and hard game mode, which they are to hit all give ships in 10x10 and 15x15 blocks, respectively.
@@ -24,4 +24,8 @@ The player wins the game when the player sinks all enemy ships first,
 and the player will be asked to input a player name to be recorded in the database.
 The AI wins the game when the AI sinks all player's ships first. 
 
-![]("images/Cover.png")
+<img src="Walkthrough/Cover.png">
+<img src="Walkthrough/SetUp.png">
+<img src="Walkthrough/Lose.png">
+<img src="Walkthrough/Win.png">
+<img src="Walkthrough/Score Board.png">
